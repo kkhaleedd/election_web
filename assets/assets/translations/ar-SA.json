@@ -48,10 +48,13 @@
   "users": "المستخدمين",
   "users_supports": "المساندين",
   "create_user": "انشاء مستخدم",
+  "report" : "المشاكل",
+  "candidate" : "المرشحين",
 
   "description": "الوصف",
   "enter_description": "ادخل الوصف",
   "post": "نشر",
+  "here_posts": "هنا تظهر اخر الاخبار",
   "show_more": "اظهار المزيد",
   "show_less": "اظهار اقل",
   "from_date": "من تاريخ",

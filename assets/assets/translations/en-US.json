@@ -48,10 +48,13 @@
   "users": "The users",
   "users_supports": "The supports",
   "create_user": "Create an user",
+  "report" : "The problems",
+  "candidate" : "The candidate",
 
   "description": "Description",
   "enter_description": "Enter description",
   "post": "Post",
+  "here_posts": "Here the latest news appears",
   "show_more": "Show more",
   "show_less": "Show less",
   "from_date": "From date",
